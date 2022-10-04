@@ -5,6 +5,24 @@ p.CapitalPara {background-color: beige;}
     background-color: pink;
 }
 
-#ottawajump {
-    
+span {
+    padding: 0px 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
+
+p {
+    border-width: 10px;
+    border-style: ridge;
+    border-color: lightgreen;
+    margin: 5px;
+}
+
+h1 {
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
+
+body {
+    font-family: "Crimson text", serif;
 }
