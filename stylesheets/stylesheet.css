@@ -1,2 +1,6 @@
 .heading {color: red;}
-.background {background-color: beige;}
+p.CapitalPara {background-color: beige;}
+
+#firsth2 {
+    background-color: pink;
+}
